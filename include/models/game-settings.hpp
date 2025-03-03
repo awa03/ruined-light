@@ -4,10 +4,8 @@
 
 class GameSettings {
 public: 
-
   GameSettings(){
     //LoadSettings();  
-    
     SetDefaults();
   }
 
