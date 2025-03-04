@@ -17,7 +17,7 @@ public:
     MaximizeWindow();
   }
   ~IntroScreen(){
-    UnloadTextures(); 
+    UnloadTextures();
   }
 
   void GameLoop(){
