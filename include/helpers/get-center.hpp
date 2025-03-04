@@ -8,4 +8,8 @@ const std::pair<int, int> getCenterScreen(const char* text, int fontSize){
   return { (GetScreenWidth() - textSize.x) / 2, (GetScreenHeight() - textSize.y) / 2 };
 }
 
+const std::pair<int, int> getScreenDimensions(){
+  return { GetScreenWidth(), GetScreenHeight()};
+}
+
 #endif
