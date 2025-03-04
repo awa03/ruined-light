@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-DGRAPHICS_API_OPENGL_33",
+      "-DPLATFORM_DESKTOP",
+      "-I/home/aiden-allen/Desktop/ruined-light/include",
+      "-I/home/aiden-allen/Desktop/ruined-light/build/_deps/raylib-src/src",
+      "-I/home/aiden-allen/Desktop/ruined-light/build/_deps/raylib-src/src/external/glfw/include",
+      "-stdlib=libc++",
+      "-std=gnu++17",
+      "-c",
+      "-o",
+      "CMakeFiles/RuinedLight.dir/src/main.cpp.o",
+      "/home/aiden-allen/Desktop/ruined-light/src/main.cpp"
+    ],
+    "directory": "/home/aiden-allen/Desktop/ruined-light/build",
+    "file": "/home/aiden-allen/Desktop/ruined-light/src/main.cpp",
+    "output": "/home/aiden-allen/Desktop/ruined-light/build/CMakeFiles/RuinedLight.dir/src/main.cpp.o"
+  }
+]

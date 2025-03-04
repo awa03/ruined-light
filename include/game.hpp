@@ -31,6 +31,19 @@ private:
         else intro.GameLoop();
       }
       else if(screen == GAMEPLAY){
+        if(IsKeyDown(KEY_W)){
+          gameplay.HandleKeyPress(KEY_W);
+        }
+        if(IsKeyDown(KEY_A)){
+          gameplay.HandleKeyPress(KEY_A);
+        }
+        if(IsKeyDown(KEY_S)){
+          gameplay.HandleKeyPress(KEY_S);
+        }
+        if(IsKeyDown(KEY_D)){
+          gameplay.HandleKeyPress(KEY_D);
+        }
+
         gameplay.GameLoop();
       }
       else {
