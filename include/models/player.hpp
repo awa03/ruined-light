@@ -20,9 +20,12 @@ public:
     DrawCircleV(playerPosition, 5, RED);
   }
 
+  void HandleShoot(){
+    DrawCircleV(playerPosition, 10, BLUE);
+  }
+
 private:
   Vector2 playerPosition;
-
 };
 
 #endif 

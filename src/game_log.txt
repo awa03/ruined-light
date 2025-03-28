@@ -1,0 +1,175 @@
+0 | In Choice
+1 | In Choice
+2 | In Choice
+3 | In Choice
+4 | In Choice
+5 | In Choice
+6 | In Choice
+7 | In Choice
+8 | In Choice
+9 | In Choice
+10 | In Choice
+11 | In Choice
+12 | In Choice
+13 | In Choice
+14 | In Choice
+15 | In Choice
+16 | In Choice
+17 | In Choice
+18 | In Choice
+19 | In Choice
+20 | In Choice
+21 | In Choice
+22 | In Choice
+23 | In Choice
+24 | In Choice
+25 | In Choice
+26 | In Choice
+27 | In Choice
+28 | In Choice
+29 | In Choice
+30 | In Choice
+31 | In Choice
+32 | In Choice
+33 | In Choice
+34 | In Choice
+35 | In Choice
+36 | In Choice
+37 | In Choice
+38 | In Choice
+39 | In Choice
+40 | In Choice
+41 | In Choice
+42 | In Choice
+43 | In Choice
+44 | In Choice
+45 | In Choice
+46 | In Choice
+47 | In Choice
+48 | In Choice
+49 | In Choice
+50 | In Choice
+51 | In Choice
+52 | In Choice
+53 | In Choice
+54 | In Choice
+55 | In Choice
+56 | In Choice
+57 | In Choice
+58 | In Choice
+59 | In Choice
+60 | In Choice
+61 | In Choice
+62 | In Choice
+63 | In Choice
+64 | In Choice
+65 | In Choice
+66 | In Choice
+67 | In Choice
+68 | In Choice
+69 | In Choice
+70 | In Choice
+71 | In Choice
+72 | In Choice
+73 | In Choice
+74 | In Choice
+75 | In Choice
+76 | In Choice
+77 | In Choice
+78 | In Choice
+79 | In Choice
+80 | In Choice
+81 | In Choice
+82 | In Choice
+83 | In Choice
+84 | In Choice
+85 | In Choice
+86 | In Choice
+0 | Shooting
+1 | In Choice
+2 | Shooting
+3 | In Choice
+4 | Shooting
+5 | In Choice
+6 | Shooting
+7 | In Choice
+8 | Shooting
+9 | In Choice
+10 | Shooting
+11 | In Choice
+12 | Shooting
+13 | In Choice
+14 | Shooting
+15 | In Choice
+16 | Shooting
+17 | In Choice
+18 | Shooting
+19 | In Choice
+20 | Shooting
+21 | In Choice
+22 | Shooting
+23 | In Choice
+24 | Shooting
+25 | In Choice
+26 | Shooting
+27 | In Choice
+28 | Shooting
+29 | In Choice
+30 | Shooting
+31 | In Choice
+32 | Shooting
+33 | In Choice
+34 | Shooting
+35 | In Choice
+36 | Shooting
+37 | In Choice
+38 | Shooting
+39 | In Choice
+40 | Shooting
+41 | In Choice
+42 | Shooting
+43 | In Choice
+44 | Shooting
+45 | In Choice
+46 | Shooting
+47 | In Choice
+48 | Shooting
+49 | In Choice
+50 | Shooting
+51 | In Choice
+52 | Shooting
+53 | In Choice
+54 | Shooting
+55 | In Choice
+56 | Shooting
+57 | In Choice
+58 | Shooting
+59 | In Choice
+60 | Shooting
+61 | In Choice
+62 | Shooting
+63 | In Choice
+64 | Shooting
+65 | In Choice
+66 | Shooting
+67 | In Choice
+68 | Shooting
+69 | In Choice
+70 | Shooting
+71 | In Choice
+72 | Shooting
+73 | In Choice
+74 | Shooting
+75 | In Choice
+76 | Shooting
+77 | In Choice
+78 | Shooting
+79 | In Choice
+80 | Shooting
+81 | In Choice
+82 | Shooting
+83 | In Choice
+84 | Shooting
+85 | In Choice
+86 | Shooting
+87 | In Choice

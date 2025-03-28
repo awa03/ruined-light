@@ -31,23 +31,18 @@ private:
         else intro.GameLoop();
       }
       else if(screen == GAMEPLAY){
-        if(IsKeyDown(KEY_W)){
-          gameplay.HandleKeyPress(KEY_W);
-        }
-        if(IsKeyDown(KEY_A)){
-          gameplay.HandleKeyPress(KEY_A);
-        }
-        if(IsKeyDown(KEY_S)){
-          gameplay.HandleKeyPress(KEY_S);
-        }
-        if(IsKeyDown(KEY_D)){
-          gameplay.HandleKeyPress(KEY_D);
-        }
 
+        int keys[] = {KEY_W, KEY_A, KEY_S, KEY_D, KEY_ENTER};
+
+        for (int key : keys) {
+          if (IsKeyDown(key)) {
+            gameplay.HandleKeyPress(key);
+          }
+        }
         gameplay.GameLoop();
       }
       else {
-        break; // exit condition
+        break; 
       }
     }
   } 

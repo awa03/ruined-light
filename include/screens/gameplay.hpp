@@ -12,6 +12,7 @@
 #include "defaults/data-paths.hpp"
 #include "dialog/gameplay.hpp"
 #include "defaults/screen-types.hpp"
+#include "helpers/game-log.hpp"
 
 class GameplayScreen {
 public:
@@ -56,8 +57,12 @@ public:
     
     BeginDrawing();
     ClearBackground(BLACK);
+
     followLight->DrawLightEffect(backgroundTexture.texture);
     player->Draw();
+
+
+
     ShowCursor();
     EndDrawing(); 
   } 
@@ -67,16 +72,25 @@ public:
     if(key == KEY_W){
       playerPos.y -= 1;
     }
+
     if(key == KEY_A){
       playerPos.x -= 1;
     }
+
     if(key == KEY_S){
       playerPos.y += 1;
     }
+
     if(key == KEY_D){
       playerPos.x += 1;
     }
 
+    if(key == KEY_ENTER){
+      player->HandleShoot();
+      LogFile::WriteLog("Shooting");
+    }
+
+    LogFile::WriteLog("In Choice");
     player->UpdatePosition(playerPos);
   }
   
